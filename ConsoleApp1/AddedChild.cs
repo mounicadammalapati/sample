@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
        public AddedChild()
         {
-
+            Console.WriteLine("i am in construcor");
         }
 
     }
