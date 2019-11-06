@@ -11,6 +11,7 @@ namespace ConsoleApp1
        public AddedChild()
         {
             Console.WriteLine("i am in construcor");
+            Console.WriteLine("parent made changes to child");
         }
 
     }
