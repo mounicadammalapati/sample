@@ -12,6 +12,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("i am in construcor");
         }
-
+        public void Hello()
+        {
+            Console.WriteLine("I am in hello method");
+        }
     }
 }
